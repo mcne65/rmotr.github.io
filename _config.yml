@@ -1,0 +1,26 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               "rmotr | Blog"
+tagline:             'Learn to code in a remote classroom'
+description:         'Learn to code in a remote classroom. <br> <a href="rmotr.com">rmotr.com</a>'
+url:                 http://rmotr.com
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              "Martín Zugnoni | Santiago Basulto"
+  url:               https://rmotr.com
+  email:             questions@rmotr.com
+
+# Custom vars
+version:             1.0.0
