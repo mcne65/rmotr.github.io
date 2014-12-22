@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing rmtor.com"
+title: "Introducing rmotr.com"
 category: self
 tags: rmotr education startups
 ---
@@ -39,4 +39,4 @@ We all know this from some previous experience: The best teachers are generally 
 
 ## Finally, we love remote working
 
-Remote working is here to stay. More and more companies and institution all over the world are relying on remote work. It makes it really simple to assist to class (you just need your laptop and a decent Internet connection) and there's no need for commuting, which consumes time and money. Plus, having people from all over the world is fascinating and creates an amazing learning experience. Students from Europe, US, Asia, Latin America join to work together as if they'd be side by side. The results are just marvelous.
+Remote working is here to stay. More and more companies and institution all over the world are relying on remote work. It makes it really simple to attend to class (you just need your laptop and a decent Internet connection) and there's no need for commuting, which consumes time and money. Plus, having people from all over the world is fascinating and creates an amazing learning experience. Students from Europe, US, Asia, Latin America join to work together as if they'd be side by side. The results are just marvelous.
