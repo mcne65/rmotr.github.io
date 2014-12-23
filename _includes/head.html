@@ -26,4 +26,32 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+  <!-- Twitter and FB attrs -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@rmotr_com" />
+
+  {% if page.title %}
+    <meta name="twitter:title" content="{{ page.title }}">
+  {% else %}
+    <meta name="twitter:title" content="{{ site.title }}">
+  {% endif %}
+
+  {% if page.url %}
+    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+  {% else %}
+    <meta name="twitter:url" content="{{ site.url }}">
+  {% endif %}
+
+  {% if page.description %}
+    <meta name="twitter:description" content="{{ page.description }}">
+  {% else %}
+    <meta name="twitter:description" content="{{ site.tagline }}">
+  {% endif %}
+
+  {% if page.cover %}
+    <meta name="twitter:image:src" content="{{ site.url }}{{ page.cover }}">
+  {% else %}
+    <meta name="twitter:image:src" content="{{ site.url }}/public/imgs/logo.jpg">
+  {% endif %}
 </head>
