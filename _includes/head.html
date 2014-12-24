@@ -30,28 +30,44 @@
   <!-- Twitter and FB attrs -->
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@rmotr_com" />
+  <meta property="article:publisher" content="https://www.facebook.com/rmotr" />
+
 
   {% if page.title %}
     <meta name="twitter:title" content="{{ page.title }}">
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:type" content="article" />
   {% else %}
     <meta name="twitter:title" content="{{ site.title }}">
+    <meta property="og:title" content="{{ site.title }}">
+    <meta property="og:type" content="website" />
   {% endif %}
 
   {% if page.url %}
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
   {% else %}
     <meta name="twitter:url" content="{{ site.url }}">
+    <meta property="og:url" content="{{ site.url }}" />
   {% endif %}
 
   {% if page.description %}
     <meta name="twitter:description" content="{{ page.description }}">
+    <meta property="og:description" content="{{ page.description }}" />
   {% else %}
     <meta name="twitter:description" content="{{ site.tagline }}">
+    <meta property="og:description" content="{{ site.tagline }}" />
   {% endif %}
 
   {% if page.cover %}
     <meta name="twitter:image:src" content="{{ site.url }}{{ page.cover }}">
+    <meta property="og:image" content="{{ site.url }}{{ page.cover }}" />
   {% else %}
     <meta name="twitter:image:src" content="{{ site.url }}/public/imgs/logo.jpg">
+    <meta property="og:image" content="{{ site.url }}/public/imgs/logo.jpg" />
+  {% endif %}
+
+  {% if page.fbauthor %}
+    <meta property="article:author" content="{{ page.fbauthor }}" />
   {% endif %}
 </head>
