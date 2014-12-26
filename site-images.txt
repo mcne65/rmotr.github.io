@@ -14,3 +14,9 @@
 * http://picjumbo.com/
 * http://pixabay.com/ (huge amount of pictures. Be cautious with license)
 * http://lockandstockphotos.com/about/ (requires credit and link)
+
+Dev icons:
+
+* http://mfizz.com/oss/font-mfizz
+* http://devicon.fr
+* https://www.iconfinder.com/icons/308446/back-end_long_shadow_programming_language_rails_ruby_web_web_technology_icon
