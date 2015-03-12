@@ -51,9 +51,9 @@ Dustin is the Director of Technology at [Steal Network](http://www.stealnetwork.
 
 <p style="text-align:center"><strong>Matt Ginty</strong></p>
 
-<img src="http://placehold.it/250x250" alt="Matt" style="margin: 0 auto;">
+<img src="/public/imgs/demoday-jury/2015-03-matt.png" alt="Matt" style="margin: 0 auto;">
 
-Matt is project leader at [Clevertech](http://www.clevertech.biz/). He's also an expert on Javascript development.
+Focused on software-as-a-service architecture, development, and delivery activities. 15 years experience in product development within the news, ecommerce, finance, government, and health verticals. Currently based in Australia.
 
 <p style="text-align:center"><strong>Juán Salas</strong></p>
 
@@ -63,12 +63,12 @@ Juán is co-founder of [Celerative](http://celerative.com/). He's an internet ex
 
 <p style="text-align:center"><strong>Rafael Villalba</strong></p>
 
-<img src="http://placehold.it/250x250" alt="Juan" style="margin: 0 auto;">
+<img src="/public/imgs/demoday-jury/rafa.jpg" alt="Rafa" style="margin: 0 auto;">
 
 Rafael (Rafa for friends) is co-founder of [Tecnom CRM](http://www.tecnom.com.ar/). He has years of experience building CRM solutions for big car companies.
 
 <p style="text-align:center"><strong>Ignacio Martinez</strong></p>
 
-<img src="http://placehold.it/250x250" alt="Ignacio" style="margin: 0 auto;">
+<img src="/public/imgs/demoday-jury/ignacio.jpg" alt="Ignacio" style="margin: 0 auto;">
 
-Ignacio (Nacho for friends) is lead developer at [BitPagos](https://www.bitpagos.com), a Bitcoin payment solution.
+Ignacio (Nacho for friends) is a developer who tries to focus on product whenever he can. Right now, he's working on BitPagos, a Bitcoin startup based on LatAm.
