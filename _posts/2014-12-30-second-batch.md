@@ -5,6 +5,9 @@ category: batches
 description: "Summary of the first batch of students at rmotr.com"
 cover: "/public/imgs/2014-12-30-second-batch/cover.jpg"
 fbauthor: "https://www.facebook.com/santiago.basulto"
+author:
+    name: "Santiago Basulto"
+    link: "https://twitter.com/santiagobasulto"
 ---
 
 We're happy to announce that we just opened our second batch for both of our courses:

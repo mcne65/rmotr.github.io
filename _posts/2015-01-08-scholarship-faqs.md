@@ -5,6 +5,9 @@ category: scholarships
 description: "Frequently Asked Questions about our Scholarship program"
 cover: "/public/imgs/2015-01-08-scholarship-faqs/cover.jpg"
 fbauthor: "https://www.facebook.com/santiago.basulto"
+author:
+    name: "Santiago Basulto"
+    link: "https://twitter.com/santiagobasulto"
 ---
 
 <br>

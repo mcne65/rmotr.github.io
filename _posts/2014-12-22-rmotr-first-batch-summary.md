@@ -5,6 +5,9 @@ category: self
 description: "Summary of the first batch of students at rmotr.com"
 cover: "/public/imgs/2014-12-22-rmotr-first-batch-summary/cover.jpg"
 fbauthor: "https://www.facebook.com/santiago.basulto"
+author:
+    name: "Santiago Basulto"
+    link: "https://twitter.com/santiagobasulto"
 ---
 
 Some time ago we had a crazy idea: creating [a remote programming course]({% post_url 2014-12-12-introducing-rmotr %}). We knew that it was a bold (and kind of revolutionary) venture and we needed to put our thoughts to test. That's why we came up with the idea of create different "batches". Each batch would be a group of people that would participate in rmotr.com. Every batch would be used to learn and to improve our methodology. The big advantage of getting into action from day one was that we'd learn directly from our students, not from "theoretical" analysis or studies. **The course was entirely free**. We knew we had to learn a lot and it didn't feel right to charge people. It was the perfect mutualism; we'd put a lot of effort trying to teach people, giving the best of us; that'd benefit students. While they'd help us providing their honest feedback and supporting us in order to improve.

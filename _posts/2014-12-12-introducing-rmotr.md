@@ -3,6 +3,10 @@ layout: post
 title: "Introducing rmotr.com"
 category: self
 tags: rmotr education startups
+fbauthor: "https://www.facebook.com/santiago.basulto"
+author:
+    name: "Santiago Basulto"
+    link: "https://twitter.com/santiagobasulto"
 ---
 
 Rmotr.com is an online platform that provides a remote classroom where people from all around the world can learn how to code. Think of rmotr.com like a remote bootcamp with a **real teacher, real classmates and real assignments.**

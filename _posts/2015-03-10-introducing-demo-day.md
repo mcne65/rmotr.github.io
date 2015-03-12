@@ -6,6 +6,9 @@ draft: true
 description: "Introducing rmotr.com Demo Day"
 cover: "/public/imgs/5807378709_cb0d133f6f_z.jpg"
 fbauthor: "https://www.facebook.com/santiago.basulto"
+author:
+    name: "Santiago Basulto"
+    link: "https://twitter.com/santiagobasulto"
 ---
 
 We're thrilled to announce that rmotr.com will be hosting a **Demo Day**.
