@@ -45,7 +45,7 @@ We're incredibly happy about the people involved for this Demo Day. Every single
 
 <p style="text-align:center"><strong>Dustin McQuay</strong></p>
 
-<img src="http://placehold.it/250x250" alt="Dustin" style="margin: 0 auto;">
+<img src="/public/imgs/demoday-jury/dustin.jpg" alt="Dustin" style="margin: 0 auto;">
 
 Dustin is the Director of Technology at [Steal Network](http://www.stealnetwork.com). He was previously the CTO of [Athlete.com](https://www.athlete.com)
 
@@ -57,9 +57,9 @@ Focused on software-as-a-service architecture, development, and delivery activit
 
 <p style="text-align:center"><strong>Juán Salas</strong></p>
 
-<img src="http://placehold.it/250x250" alt="Juan" style="margin: 0 auto;">
+<img src="/public/imgs/demoday-jury/juan-salas.jpg" alt="Juan" style="margin: 0 auto;">
 
-Juán is co-founder of [Celerative](http://celerative.com/). He's an internet expert.
+Juán is co-founder of [Celerative](http://celerative.com/). He's an internet expert and has made research in several topics focused on Semantic Web.
 
 <p style="text-align:center"><strong>Rafael Villalba</strong></p>
 
