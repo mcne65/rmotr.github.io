@@ -47,7 +47,7 @@ We're incredibly happy about the people involved for this Demo Day. Every single
 
 <img src="/public/imgs/demoday-jury/dustin.jpg" alt="Dustin" style="margin: 0 auto;">
 
-Dustin is the Director of Technology at [Steal Network](http://www.stealnetwork.com). He was previously the CTO of [Athlete.com](https://www.athlete.com)
+Dustin is Director of Technology at [Steals.com](http://www.stealnetwork.com), an e-commerce website focusing on women. He has previously worked at [Athlete](https://www.athlete.com).com and [Backcountry.com](http://www.backcountry.com/). He most recently been working with PHP and Python and is currently enamored by DevOps.
 
 <p style="text-align:center"><strong>Matt Ginty</strong></p>
 
