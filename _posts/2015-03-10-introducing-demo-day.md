@@ -25,11 +25,11 @@ You could think about Demo Day like a controlled experiment where our students h
 
 ## Requirements
 
-We impose some requirements that we believe are key in order to achieve the previously stated goals. People sometimes don't understand why we do it, but we have perfectly thought reasons to do that. Plus, these requirements are the result of constant evolution and joint work with the jury members and mentors.
+We impose some requirements that we believe are key in order to achieve the previously stated goals. These requirements are the result of constant evolution and joint work with the jury members and mentors.
 
 **Clearly defined scope:** Before the students even begin to write the code for their project they must create a document where they state what the software will do and at what extent. We don't care what it is, but we need a defined scope. This will be used by the jury after seeing the end result to evaluate the estimations of the team.
 
-**Tested and documented**: _Reading code is more important than writing code_ Along those lines understanding what the software does and validating that it does it in the right way is even more important. Students will have the chance to test themselves to see if the level of documentation they provide is enough for their peers and the jury. The jury will also check the testing level and techniques used, providing valuable feedback in this matter.
+**Tested and documented**: _Reading code is more important than writing code._ Along those lines understanding what the software does and validating that it does it in the right way is even more important. Students will have the chance to test themselves to see if the level of documentation they provide is enough for their peers and the jury. The jury will also check the testing level and techniques used, providing valuable feedback in this matter.
 
 **Production level. Detail oriented**: We don't care if the project has a small scope. But we do care a lot that it's ready for production and has a professional finish touch. We prefer to have a small project that's solid than a big project that is flawed and half-finished. That's what differentiates greats coders; the professionalism they have in their work. We want to foster this aspect in our students.
 
@@ -59,7 +59,7 @@ Focused on software-as-a-service architecture, development, and delivery activit
 
 <img src="/public/imgs/demoday-jury/juan-salas.jpg" alt="Juan" style="margin: 0 auto;">
 
-Juán is co-founder of [Celerative](http://celerative.com/). He's an internet expert and has made research in several topics focused on Semantic Web.
+Juan is Director & Co-Founder at [Celerative](http://celerative.com/), a product builder based in Argentina. He is passionate about Semantic Web Technologies, Machine Learning and Neuroscience.
 
 <p style="text-align:center"><strong>Rafael Villalba</strong></p>
 
