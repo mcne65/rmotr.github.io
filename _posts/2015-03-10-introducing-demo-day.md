@@ -15,6 +15,8 @@ We're thrilled to announce that rmotr.com will be hosting a **Demo Day**.
 
 **Demo Day** is a presentation from the [Advanced Python Programming](https://www.eventbrite.com/e/advanced-python-programming-course-tickets-15084732842) course students of a project they have coded over a period of two weeks. They'll have to demo it in front of a panel of industry leaders that will act as jury and mentors, providing feedback and suggestions.
 
+**The next Demo Day will be hosted on April Monday 6th.** Stay tuned for more updates.
+
 ## Motivation
 
 One of the biggest values we provide at [rmotr.com](http://rmotr.com/) is that we teach things that are not just taught in books. We teach the hard things about programming. It's easy to learn how to code a for-loop in Python, or how to create a webapp using Flask. The hard things involve estimates, how to deal with people and team-work, good practices, etc. Even though our course involves features and concepts of Python, our main goal is to transfer all our experience to our students. Demo Day is the _Summum_ of that experience. Our students will have to transfer all the knowledge gathered throughout the course and put it in one project that will count with the judging eye of professional coders.
