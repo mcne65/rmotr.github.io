@@ -15,7 +15,7 @@ We're happy to announce that the third batch for our flagship course [Advanced P
 
 **The big deal about this batch is that we're announcing our new [scholarship model](#).** That means you can apply for a full scholarship here: [http://goo.gl/forms/SNawvSVs3x](http://goo.gl/forms/SNawvSVs3x)
 
-Of course if you just want to jump in and pay for it you don't have to pass through all the application process. The scholarships are meant for people who really need them and we're going to prioritize that.
+Of course if you just want to jump in and pay for it you don't have to go through all the application process. The scholarships are meant for people who really need them and we're going to prioritize that. [Course details on EventBrite](http://bit.ly/rmotr-3rd-batch).
 
 ### Objectives
 
