@@ -14,37 +14,32 @@ author:
 
 **What type of scholarships do you provide?**
 
-Full scholarships. If you're selected the course is free.
+Full scholarships. If you're selected the entire course is free.
 
 **How do I apply?**
 
-Submit this application: [http://goo.gl/forms/PzlAanzDYf](http://goo.gl/forms/PzlAanzDYf)
+Submit this application: [http://goo.gl/forms/SNawvSVs3x](http://goo.gl/forms/SNawvSVs3x)
 
 Please read these FAQ before applying.
 
 **What's the admissions process?**
 
-There are three phases of our admissions process:
+There are three simple steps for our admissions process:
 
 1. An application.
-2. An interview with other possible candidates.
-3. Homework to submit after the interview.
+2. A follow up resolution problem that might include team work.
+3. An interview with other possible candidates.
 
-The first step is to submit a brief written application. After that, you will either receive an invitation to interview or an e-mail notifying you were not selected for this batch. Don't worry too much though. We'll keep doing them and people who's not selected in the first place get more chances in the following batches.
+
+The first step is to submit a brief written application. The application contains a simple programming exercise that will be used to know your programming skills. After the first application we'll be sending a follow up exercise. Neither of these exercises are deal breakers. We just ask for them in order to create groups of students with similar levels of knowledge. Once the follow up exercises are submitted we evaluate all candidates. 
+
+After that, you will either receive an invitation to interview or an e-mail notifying you were not selected for this batch. Don't worry too much though. We'll keep doing them and people who's not selected in the first place get more chances in the following batches.
 
 If you are invited to interview, you'll be sent an invitation to join the interview. The first interview is a general conversation between the possible candidates and the instructors. We introduce ourselves and hangout to know more about ourselves: why you want to learn to code, what's your experience, what are your interests, etc. We won't ask you to do any coding but the conversation might involve things related to coding, projects you've worked in the past and general nerdy things.
-
-After that you'll receive an email asking you to follow to the next step or an email indicating that you were not selected for this batch. Again, don't worry too much. You're really close for the upcoming batch.
-
-The next step involves submitting homework. It varies depending on the type of course you are. It might be a program (for more advanced courses) or a small essay regarding technology for starters.
 
 **Why do you have such a hard admissions process?**
 
 We need commitment. As you might read below we don't care if you're technically gifted. We want awesome people who commits and be present as long as the course runs. People dropping out soon ruins the experience for everybody else.
-
-**When is the deadline to submit applications?**
-
-Sunday, January 11th, 2015.
 
 **What do you take into account to select students?**
 
@@ -54,7 +49,7 @@ We also value social aspects. How have you helped people before? What are your p
 
 **Can I bribe the judges?**
 
-Sadly no, those times are over. But if you want to follow us on [twitter](https://twitter.com/rmotr_com) or like us on [facebook](https://www.facebook.com/rmotr) we'll be really happy!
+Sadly no, those times are over. But if you want to follow us on [twitter](https://twitter.com/rmotr_com) or like our page on [facebook](https://www.facebook.com/rmotr) we'll be really happy!
 
 **What happens if I don't get selected?**
 
