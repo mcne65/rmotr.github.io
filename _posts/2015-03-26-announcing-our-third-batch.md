@@ -23,6 +23,8 @@ The main objective of this batch (aside from testing the scholarship model) is t
 
 Other objective is to strength our community. Slack has proven to be a great tool to keep provide collaboration for all the past and present rmotr students. People keep engaging in our channels and magical things happen in there.
 
+As a final aspect we'll have the second edition of our [Demo Day](/announcements/2015/03/10/introducing-demo-day/), for which this time we will be expecting a bigger audience and more jury members.
+
 ### Stay tuned
 
 Follow/like us to keep up with the last updates:

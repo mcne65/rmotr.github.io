@@ -2,7 +2,6 @@
 layout: post
 title: "Introducing Demo Day"
 category: announcements
-draft: true
 description: "Introducing rmotr.com Demo Day"
 cover: "/public/imgs/5807378709_cb0d133f6f_z.jpg"
 fbauthor: "https://www.facebook.com/santiago.basulto"
