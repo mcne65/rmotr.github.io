@@ -13,39 +13,35 @@ One thing that always confuses our students are the differences between dictiona
 
 First let's see what happened on Python 2.
 
-```python
-# Testing python code formatting
-d = {'title': 'The Raven', 'year': 1845, 'author': 'Edgar Allan Poe'}
-type(d.keys())
-list
-```
-
 ### Python 2 keys and objects
 
 On Python 2 when you requested to see a dict's keys or values you'd get a list. Example:
 
-    >>> d = {'title': 'The Raven', 'year': 1845, 'author': 'Edgar Allan Poe'}
-    >>> d.keys()
-    ['year', 'author', 'title']
-    >>> type(d.keys())
-    list
-    >>> d.values()
-    [1845, 'Edgar Allan Poe', 'The Raven']
-    >>> type(d.values())
-    list
-    >>> d.items()
-    [('year', 1845), ('author', 'Edgar Allan Poe'), ('title', 'The Raven')]
-    >>> type(d.items())
-    list
-    
+```python
+>>> d = {'title': 'The Raven', 'year': 1845, 'author': 'Edgar Allan Poe'}
+>>> d.keys()
+['year', 'author', 'title']
+>>> type(d.keys())
+list
+>>> d.values()
+[1845, 'Edgar Allan Poe', 'The Raven']
+>>> type(d.values())
+list
+>>> d.items()
+[('year', 1845), ('author', 'Edgar Allan Poe'), ('title', 'The Raven')]
+>>> type(d.items())
+list
+```    
 
 That means that when you invoke the `keys` method on a dictionary it constructs a list with all the keys **at that moment** and returns it. This has several disadvantages. The first one is that as the keys list is constructed when the method is invoked you'll not see new keys added after that time. Check the following example:
 
-    >>> d = {'title': 'The Raven', 'year': 1845, 'author': 'Edgar Allan Poe'}
-    >>> keys = d.keys()
-    >>> d['goodreads_rating'] = 4.28
-    >>> print(keys) # It won't include 'goodreads_rating'!!
-    ['year', 'author', 'title']
+```python
+>>> d = {'title': 'The Raven', 'year': 1845, 'author': 'Edgar Allan Poe'}
+>>> keys = d.keys()
+>>> d['goodreads_rating'] = 4.28
+>>> print(keys) # It won't include 'goodreads_rating'!!
+['year', 'author', 'title']
+```
 
 Here we're missing the recently added `goodreads_rating` key because it was added before the keys were requested.
 
@@ -55,15 +51,17 @@ Other disadvantage is that it'll create a brand new list every time we invoke th
 
 On Python 3 the situation is different; and for better. The main difference is that when you invoke the methods `keys`, `values` or `items` instead of receiving a list you get a `dict_keys` object. Let's rework our previous example with Python 3.4:
 
-    >>> d = {'title': 'The Raven', 'year': 1845, 'author': 'Edgar Allan Poe'}
-    >>> keys = d.keys()
-    >>> keys
-    dict_keys(['title', 'year', 'author'])
-    >>> type(d.keys())
-    dict_keys
-    >>> d['goodreads_rating'] = 4.28
-    >>> keys  # We'll see the new key, even though keys was created before adding the new key
-    dict_keys(['goodreads_rating', 'title', 'year', 'author'])
+```python
+>>> d = {'title': 'The Raven', 'year': 1845, 'author': 'Edgar Allan Poe'}
+>>> keys = d.keys()
+>>> keys
+dict_keys(['title', 'year', 'author'])
+>>> type(d.keys())
+dict_keys
+>>> d['goodreads_rating'] = 4.28
+>>> keys  # We'll see the new key, even though keys was created before adding the new key
+dict_keys(['goodreads_rating', 'title', 'year', 'author'])
+```
 
 As view object are generated dynamically there's no need to create duplicated lists with the keys, values or items. The memory usage is far better.
 
@@ -71,6 +69,7 @@ As view object are generated dynamically there's no need to create duplicated li
 
 View objects are conform to the iterator protocol which also improves performance; as items are generated as long as they're needed. In the Python 2 example the whole list of keys is created before it's even returned which might be a waste of CPU cycles. Check the following example:
 
+```python
     def dict_contains_integer_value(a_dict):
     for value in a_dict.values():
         if type(value) == int:
@@ -79,6 +78,7 @@ View objects are conform to the iterator protocol which also improves performanc
 
     d = {'title': 'The Raven', 'year': 1845, 'author': 'Edgar Allan Poe'}
     print(dict_contains_integer_value(d))
+```
 
 This example works the same way both in Python 2 and Python 3 (and returns the same result, `True`). The main difference is on line 2 when we ask for the dictionary values. With Python 2 the `values()` method would create a list with all the values in the dictionary and then it'd return it. In Python 3 the `.values()` method will return a `dict_keys` object that will yield one element at a time; if the value `1845` is returned first no more requests will be made and we'd save CPU and memory.
 
