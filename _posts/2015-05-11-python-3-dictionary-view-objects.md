@@ -70,14 +70,14 @@ As view object are generated dynamically there's no need to create duplicated li
 View objects are conform to the iterator protocol which also improves performance; as items are generated as long as they're needed. In the Python 2 example the whole list of keys is created before it's even returned which might be a waste of CPU cycles. Check the following example:
 
 ```python
-    def dict_contains_integer_value(a_dict):
+def dict_contains_integer_value(a_dict):
     for value in a_dict.values():
         if type(value) == int:
             return True
     return False
 
-    d = {'title': 'The Raven', 'year': 1845, 'author': 'Edgar Allan Poe'}
-    print(dict_contains_integer_value(d))
+d = {'title': 'The Raven', 'year': 1845, 'author': 'Edgar Allan Poe'}
+print(dict_contains_integer_value(d))
 ```
 
 This example works the same way both in Python 2 and Python 3 (and returns the same result, `True`). The main difference is on line 2 when we ask for the dictionary values. With Python 2 the `values()` method would create a list with all the values in the dictionary and then it'd return it. In Python 3 the `.values()` method will return a `dict_keys` object that will yield one element at a time; if the value `1845` is returned first no more requests will be made and we'd save CPU and memory.
