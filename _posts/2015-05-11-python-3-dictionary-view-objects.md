@@ -13,6 +13,13 @@ One thing that always confuses our students are the differences between dictiona
 
 First let's see what happened on Python 2.
 
+```python
+# Testing python code formatting
+d = {'title': 'The Raven', 'year': 1845, 'author': 'Edgar Allan Poe'}
+type(d.keys())
+list
+```
+
 ### Python 2 keys and objects
 
 On Python 2 when you requested to see a dict's keys or values you'd get a list. Example:
