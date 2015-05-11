@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Python 3 object views"
+title: "Python 3 Dictionary view objects"
 category: python
-description: "Learn about the new view objects introduced on Python 3"
+description: "Learn about the new view objects introduced on Python 3 for dictionaries"
 fbauthor: "https://www.facebook.com/santiago.basulto"
 author:
     name: "Santiago Basulto"
