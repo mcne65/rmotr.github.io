@@ -9,13 +9,13 @@ author:
     link: "https://twitter.com/santiagobasulto"
 ---
 
-One thing that always confuses our students are the differences between dictionary methods on Python 2 and Python 3. Dictionary changed on Python 3 for better and that's because of the introduction of [View Objects](https://docs.python.org/3/library/stdtypes.html#dictionary-view-objects). View Objects are returned whenever we ask for a dictionary's keys, values or items (pairs of keys and values); it's a new way to represent that data.
+One thing that always confuses our students are the differences between dictionary methods on Python 2 and Python 3. Dictionary changed on Python 3 for the better and that's because of the introduction of [View Objects](https://docs.python.org/3/library/stdtypes.html#dictionary-view-objects). View Objects are returned whenever we ask for a dictionary's keys, values or items (pairs of keys and values); it's a new way to represent that data.
 
 First let's see what happened on Python 2.
 
 ### Python 2 keys and objects
 
-On Python 2 when you requested to see a dict's keys or values you'd get a list. Example:
+On Python 2 when you requested to see a dict's keys or values you'd get a list:
 
 ```python
 >>> d = {'title': 'The Raven', 'year': 1845, 'author': 'Edgar Allan Poe'}
@@ -45,7 +45,7 @@ That means that when you invoke the `keys` method on a dictionary it constructs 
 
 Here we're missing the recently added `goodreads_rating` key because it was added before the keys were requested.
 
-Other disadvantage is that it'll create a brand new list every time we invoke the keys or method values; that certainly is a waste of memory.
+The other disadvantage is that it'll create a brand new list every time we invoke the keys or method values; that certainly is a waste of memory.
 
 ### Introducing Python 3 view objects
 
