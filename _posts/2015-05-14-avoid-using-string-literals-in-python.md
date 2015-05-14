@@ -100,3 +100,63 @@ Aside from the compiler with this approach we also have help from our code edito
 ![http://i.imgur.com/Ct9LpRu.png](http://i.imgur.com/Ct9LpRu.png)
 
 As you can see my editor is highlighting the error on line 18. Also, when I'm trying to reference the `AUTHORS_KEY` variable I have a nice completion suggestion which will make it harder to introduce a bug like the one described before.
+
+### Further advice: storing state
+
+Using string literals as dictionary keys is the most common source of bugs like the one described above. There's also another common scenario that involves storing "state" in strings. Consider the following example of a simple `Car` class:
+
+```python
+class Car(object):
+    def __init__(self, brand, gas_count_in_liters):
+        self.brand = brand
+        self.gas_count_in_liters = gas_count_in_liters
+        self.state = 'stopped'
+
+    def move(self):
+        if self.gas_count_in_liters == 0:
+            raise Exception("No more gas")
+        elif self.state == 'moving':  # Checking state with a literal string
+            raise Exception("The car is already moving")
+
+        self.state = 'moving'
+        self.gas_count_in_liters -= 0
+        print("The car is moving")
+
+
+ford = Car('Ford', 10)
+ford.move()
+```
+
+In this case the state of the car is stored as a literal string which we're using to compare. This is also error prone, suppose that I introduce other typo on the state checking line and instead of typing `elif self.state == 'moving':` I type `elif self.state == 'movin':`. We'd be in the same situation as before; a hardly debuggable bug introduced by a typo. We'd have to read the code really carefully in order to spot it.
+
+The solution in this case is simple and related to our previous fix:
+
+```python
+class Car(object):
+    STOPPED = 'stopped'
+    MOVING = 'moving'
+
+    def __init__(self, brand, gas_count_in_liters):
+        self.brand = brand
+        self.gas_count_in_liters = gas_count_in_liters
+        self.state = Car.STOPPED
+
+    def move(self):
+        if self.gas_count_in_liters == 0:
+            raise Exception("No more gas")
+        elif self.state == Car.MOVING:
+            raise Exception("The car is already moving")
+
+        self.state = Car.MOVING
+        self.gas_count_in_liters -= 0
+        print("The car is moving")
+
+ford = Car('Ford', 10)
+ford.move()
+```
+
+In this case we stored the state as class variables (`STOPPED` and `MOVING`). This has pretty much the same effect as we had on our previous dictinoary example; if you have a typo on one of this variables you'd also get a compiler error. You'll also count with help from your code editor to inform the error and provide suggestions while typing.
+
+The nice addition in this approach is that we're giving those state variables a _namespace_. `Car.STOPPED` makes a lot of sense when you read it.
+
+This concludes our advice on using literal strings in Python. Please write us a line if you have any doubt or comment: questions@rmotr.com.
