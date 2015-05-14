@@ -155,7 +155,7 @@ ford = Car('Ford', 10)
 ford.move()
 ```
 
-In this case we stored the state as class variables (`STOPPED` and `MOVING`). This has pretty much the same effect as we had on our previous dictinoary example; if you have a typo on one of this variables you'd also get a compiler error. You'll also count with help from your code editor to inform the error and provide suggestions while typing.
+In this case we stored the state as class variables (`STOPPED` and `MOVING`). This has pretty much the same effect as we had on our previous dictionary example; if you have a typo on one of this variables you'd also get a compiler error. You'll also count with help from your code editor to inform the error and provide suggestions while typing.
 
 The nice addition in this approach is that we're giving those state variables a _namespace_. `Car.STOPPED` makes a lot of sense when you read it.
 
