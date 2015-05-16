@@ -16,7 +16,7 @@ rmotr.com started as a free course. We were greatly surprised with the engagemen
 
 To continue with that mission we have found a way to finance ourselves in order to keep providing scholarships so people can access our courses for free. We want to give everybody the same opportunities; regardless of the resources they have available.
 
-**For every course we do, we're going to have 4 scholarships, that's half of each course (there are 8 openings per course). **
+**For every course we do, we're going to have 4 scholarships, that's half of each course (there are 8 openings per course).**
 
 ### Requisites
 
