@@ -16,12 +16,6 @@ author:
 
 Full scholarships. If you're selected the entire course is free.
 
-**How do I apply?**
-
-Submit this application: [http://goo.gl/forms/SNawvSVs3x](http://goo.gl/forms/SNawvSVs3x)
-
-Please read these FAQ before applying.
-
 **What's the admissions process?**
 
 There are three simple steps for our admissions process:
