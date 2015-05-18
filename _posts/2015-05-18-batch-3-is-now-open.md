@@ -2,7 +2,6 @@
 layout: post
 title: "Announcing our third batch"
 category: announcements
-draft: true
 description: "Announcing our third batch"
 cover: "/public/imgs/2015-03-26-third-batch.jpg"
 fbauthor: "https://www.facebook.com/santiago.basulto"
