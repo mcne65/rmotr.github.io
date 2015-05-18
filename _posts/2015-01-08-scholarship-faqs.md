@@ -25,7 +25,7 @@ There are three simple steps for our admissions process:
 3. An interview with other possible candidates.
 
 
-The first step is to submit a brief written application. The application contains a simple programming exercise that will be used to know your programming skills. After the first application we'll be sending a follow up exercise. Neither of these exercises are deal breakers. We just ask for them in order to create groups of students with similar levels of knowledge. Once the follow up exercises are submitted we evaluate all candidates. 
+The first step is to submit a brief written application. The application might contain a simple programming exercise that will be used to know your programming skills. After the first application we'll be sending a follow up exercise. Neither of these exercises are deal breakers. We just ask for them in order to create groups of students with similar levels of knowledge. Once the follow up exercises are submitted we evaluate all candidates. 
 
 After that, you will either receive an invitation to interview or an e-mail notifying you were not selected for this batch. Don't worry too much though. We'll keep doing them and people who's not selected in the first place get more chances in the following batches.
 
@@ -51,7 +51,7 @@ Don't worry too much. We're going to keep doing the courses. You'll be selected 
 
 **Can you tell me why I wasn't admitted or give me feedback on my application?**
 
-We can't. Most of the time there's nothing "bad". Just other people were given the priority for this time. Your turn will come.
+We can't. Most of the time there's nothing "bad". Just other people were given the priority for this time. Your turn will come eventually.
 
 **I have other question and I don't see it answered here**
 
