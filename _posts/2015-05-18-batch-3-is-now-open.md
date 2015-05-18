@@ -4,7 +4,7 @@ title: "Our Python Programming course is now open"
 category: announcements
 description: "Announcing our third batch"
 cover: "/public/imgs/2015-03-26-third-batch.jpg"
-fbauthor: "https://www.facebook.com/santiago.basulto"ens
+fbauthor: "https://www.facebook.com/santiago.basulto"
 author:
     name: "Santiago Basulto"
     link: "https://twitter.com/santiagobasulto"
