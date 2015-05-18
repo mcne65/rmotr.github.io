@@ -10,6 +10,8 @@ author:
     link: "https://twitter.com/santiagobasulto"
 ---
 
+These are just FAQs. If you want to know why and how we do scholarships please read: [http://blog.rmotr.com/announcements/2015/03/29/new-scholarship-model/](http://blog.rmotr.com/announcements/2015/03/29/new-scholarship-model/)
+
 <br>
 
 **What type of scholarships do you provide?**
