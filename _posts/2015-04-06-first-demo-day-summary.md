@@ -14,7 +14,7 @@ Yesterday we had our first Demo Day ever. It was an amazing and exciting experie
 
 One important trait of Demo Day is that the projects **must** use a public API (twitter, reddit, whatever) because we're sick of _"build a library"_ type of projects. The students decide what project they want to build and work together to get it done with good estimations. Team work is key.
 
-**Watch Demo Day here:** https://www.youtube.com/watch?v=QB-ozAvG2qE
+**Watch Demo Day here:** [https://www.youtube.com/watch?v=QB-ozAvG2qE](https://www.youtube.com/watch?v=QB-ozAvG2qE)
 
 For this edition there were 2 groups with three students each:
 
