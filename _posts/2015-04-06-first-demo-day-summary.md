@@ -3,6 +3,7 @@ layout: post
 title: "First Demo Day wrap up"
 category: announcements
 description: "We hosted our first Demo Day. We tell you what happened."
+cover: "http://i.imgur.com/TvC1Wl8.png"
 fbauthor: "https://www.facebook.com/santiago.basulto"
 author:
     name: "Santiago Basulto"
@@ -12,6 +13,8 @@ author:
 Yesterday we had our first Demo Day ever. It was an amazing and exciting experience that we want to share with all the community. Demo Day is the culmination of our Advanced Python Programming course. It is a final project that our students have to build to graduate from the course where we try to teach things that are not just taught in books. If you want to know more about Demo Day, you can read [this post](http://blog.rmotr.com/announcements/2015/03/10/introducing-demo-day/).
 
 One important trait of Demo Day is that the projects **must** use a public API (twitter, reddit, whatever) because we're sick of _"build a library"_ type of projects. The students decide what project they want to build and work together to get it done with good estimations. Team work is key.
+
+**Watch Demo Day here:** https://www.youtube.com/watch?v=QB-ozAvG2qE
 
 For this edition there were 2 groups with three students each:
 
