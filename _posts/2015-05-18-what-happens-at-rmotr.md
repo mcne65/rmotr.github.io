@@ -16,7 +16,7 @@ rmotr.com is not just a programming course; it's a **complete environment** wher
 
 We believe that communication and human interaction is key in order to create a great learning experience. That's why it's the center of our process. You'll be working 6 weeks side by side with your classmates. We use [Slack](https://slack.com/) as our main communication hub; everything happens on slack. We have several channels based on different interests. Each class has its own private group where students are constantly interacting.
 
-Also mentors and teacher is always present ready to answer questions and helping students.
+Also mentors and teachers are always present ready to answer questions and helping students.
 
 **It doesn't matter if it's 4AM in a Saturday morning. There's always someone connected working on something and ready to help.**
 
