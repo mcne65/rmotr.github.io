@@ -12,9 +12,21 @@ layout: default
 
   {% if page.cover %}
     <img class="post-cover" src="{{ page.cover }}" alt="{{ page.title }} | Cover picture">
+
+    {% if page.crazy_image_explanation %}
+      <div class="crazy-image-explanation-container">
+
+        <a class="crazy-image-title js-crazy-image-cta" href="#">why the crazy image?</a>
+        <div class="text-explanation-container js-text-explanation-container" style="display: none">
+          <p class="text-explanation">{{ page.crazy_image_explanation }} <a href="{{ page.cover_source }}" target="_blank">(Source)</a></p>
+        </div>
+      </div>
+    {% endif %}
   {% endif %}
 
-  {{ content }}
+  <div class="content">
+    {{ content }}
+  </div>
 </div>
 
 <div class="related">

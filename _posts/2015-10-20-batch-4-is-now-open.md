@@ -5,6 +5,8 @@ category: announcements
 tags: rmotr
 draft: true
 cover: "/public/imgs/posts/2015-10-20-batch-4-is-now-open.jpg"
+crazy_image_explanation: "Taking our course is sometimes a big leap of faith. It requires lots of dedication and it's not easy. But at the end, it's worth it."
+cover_source: "https://unsplash.com/photos/s00F6-W_OQ8"
 fbauthor: "https://www.facebook.com/santiago.basulto"
 author:
     name: "Santiago Basulto"

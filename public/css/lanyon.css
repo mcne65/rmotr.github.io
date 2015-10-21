@@ -326,7 +326,9 @@ a.sidebar-nav-item:focus {
 
 .post-cover{
   width: 100%;
+  margin: 0px;
 }
+
 /* Related posts */
 .related {
   padding-top: 2rem;

@@ -1,0 +1,27 @@
+.content{
+    margin-top: 1rem;
+}
+
+.crazy-image-explanation-container{
+    float:left;
+    width: 100%;
+
+}
+.crazy-image-explanation-container .crazy-image-title{
+    font-size: 10px;
+    float: right;
+}
+
+.crazy-image-explanation-container .text-explanation-container{
+    float:left;
+    padding-left: 5%;
+}
+
+.crazy-image-explanation-container .text-explanation-container .text-explanation{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.crazy-image-explanation-container .text-explanation-container .text-explanation a{
+    font-style: italic;
+}
