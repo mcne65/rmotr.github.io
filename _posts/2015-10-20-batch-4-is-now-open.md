@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Batch 4 is now open!"
+title: "Batch 4 is now open! Receiving applications"
 category: announcements
 tags: rmotr
 draft: true
@@ -13,7 +13,9 @@ author:
     link: "https://twitter.com/santiagobasulto"
 ---
 
-We're glad to announce that our new batch is now open. **There are several changes for this batch**, you can read below for more details, but here's the summary:
+We're glad to announce that our new batch is now open and we're receiving applications. The course will begin on **Tuesday, November 3rd** and **will cost $300**. ¿Can't afford that? Keep on reading.
+
+**There are several changes for this batch**, you can read below for more details, but here's the summary:
 
 * **Everyone has to apply**. We have too many people trying to take our courses that we got to the point to do a selection. Either if you're willing to pay or applying for a scholarship you'll need to go through the application process.
 * **Scholarships are still open**. We restate our commitment with **free** education.
