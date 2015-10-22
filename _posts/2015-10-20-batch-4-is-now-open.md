@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Batch 4 is now open! Receiving applications"
+title: "Batch 4 is now open! Accepting applications"
 category: announcements
 tags: rmotr
 draft: true
