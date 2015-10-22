@@ -13,7 +13,7 @@ author:
     link: "https://twitter.com/santiagobasulto"
 ---
 
-We're glad to announce that our new batch is now open and we're receiving applications. The course will begin on **Tuesday, November 3rd** and **will cost $300**. ¿Can't afford that? Keep on reading.
+We're glad to announce that our the batch for our Python Programming Course is now open and we're receiving applications. The course will begin on **Tuesday, November 3rd** and **will cost $300**. ¿Can't afford that? Keep on reading.
 
 **There are several changes for this batch**, you can read below for more details, but here's the summary:
 
