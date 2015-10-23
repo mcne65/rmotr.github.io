@@ -25,3 +25,13 @@
 .crazy-image-explanation-container .text-explanation-container .text-explanation a{
     font-style: italic;
 }
+blockquote.with-author{
+    margin-bottom: 0px;
+}
+.quote-author-name{
+    text-align: right;  font-style: italic;font-size: 16px;
+}
+.quote-author-picture{
+    width: 50px;
+    float: right;
+}

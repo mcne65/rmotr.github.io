@@ -49,6 +49,22 @@ And finally: **Everything happens remotely.** So you can learn while you're in y
 
 ![Spongebob squarepants learning python in Bikini Bottom](/public/imgs/posts/spongebob-amazed.png)
 
+* * * * *
+
+<div>
+    <img src="https://pbs.twimg.com/profile_images/204022360/yatz_cropped_200x200.PNG" class="quote-author-picture">
+
+    <blockquote class="with-author">
+    My experience with rmotr really pushed me to be a well-rounded developer. As someone who was previously self-taught, <b>having group experience really helped prepare me in new ways</b>. Having face to face classes was the best part.
+    </blockquote>
+
+    <p class="quote-author-name">
+        <a href="https://twitter.com/yatritrivedi">Yatri Trivedi, writer for http://howtogeek.com</a>
+    </p>
+</div>
+
+* * * * *
+
 <h2 id="what-will-you-learn">What will you learn?</h2>
 
 We like to say that this course **will make you an advanced python programmer**, even if you don't know anything about Python. It is required though that you have some basic knowledge about programming. Here's a high level list of topics covered:
