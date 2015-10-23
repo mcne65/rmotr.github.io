@@ -16,9 +16,9 @@ Have you ever felt the **frustration** when something doesn't work but yet every
 **You want to learn to code**. But the options that you have today don't suit you:
 
 * **programming bootcamps are really expensive.** The good ones are placed either in NYC or San Francisco. Even if you manage to pay for the bootcamp, how can you afford living in those cities!
-* **online courses don't work at all**, you never get to finish them. And even if you get to finish them, you've learned all alone and you know nothing about the real world.
+* **online video courses don't work at all**, you never get to finish them. And even if you get to finish them, you've learned all alone and you know nothing about the real world.
 
-Exactly that's why we created this course. We know that **the most difficult thing in programming is not just "coding"**. You want to learn how to debug your programs, you want to learn coding style from professionals, you need the tools used in the industry, etc. The list is long, and yet, none of that is taught in books.
+Exactly that's why we created this course. We know that **the most difficult things in programming are not just "coding"**. You want to learn how to debug your programs, you want to learn coding style from professionals, you need the tools used in the industry, etc. The list is long, and yet, none of that is taught in books.
 
 **This course will take you from 10 - 110 in your Python programming skills.** It's designed for people with some knowledge in programming who want to take the next step into becoming better coders.
 
@@ -60,10 +60,18 @@ We like to say that this course **will make you an advanced python programmer**,
 * **Modules and packages**: \_\_init\_\_.py, packages, modules, absolute and relative imports.
 * **Decorators, Context Managers, File Handling and more:** Advanced and useful topics from Python.
 * **Unit Testing, TDD:** The course is _Test Driven_. You'll learn to test from day one.
-* **Web development:** From the basics with HTTP to develop a real API.
+* **Web development:** From the basics of HTTP to develop a real API.
 * **Third party libraries:** For your final project you'll choose to work with APIs from Reddit, Twitter, Instagram, etc.
 
 You can check the full syllabus here: [http://bit.ly/batch4-advanced-python-syllabus](http://bit.ly/batch4-advanced-python-syllabus)
+
+* * * * * *
+
+### Let's talk! [Get in touch!](#get-in-touch)
+
+_We're happy to do a Skype/Hangouts call to answer all your questions!_
+
+* * * * * *
 
 ![python coding online editor](/public/imgs/screenshots/2.png)
 
@@ -71,7 +79,7 @@ You can check the full syllabus here: [http://bit.ly/batch4-advanced-python-syll
 
 ### You know some programming but you don't know Python
 
-We'll help you "transfer" the abstract programming knowledge to Python in the first week. It won't take long as **Python is a really simple language**. During the course you'll feel more and more comfortable with it.
+We'll help you "transfer" the abstract programming knowledge to Python in the first week. It won't take long because **Python is a really simple language**. During the course you'll feel more and more comfortable with it.
 
 ### You know a little bit about Python but you want to take it to the next level
 
@@ -79,7 +87,7 @@ You might know the basics but you want to get really proficient at it. **You wan
 
 ### You want to develop web services and web sites
 
-The main focus of this course is on web development. We'll focus on teaching the fundamentals of HTTP and Python Web Development (wsgi using Werkzeug and Flask). We'll also show you a little bit about Django and different ORMs (Django's and SQLAlchemy). You'll be able to take it from here with a lot of confidence on what you've built.
+The main focus of this course is on web development. We'll focus on teaching the fundamentals of HTTP and Python Web Development (wsgi using Werkzeug and Flask). We'll also show you a little bit about Django and different ORMs (Django's and SQLAlchemy). You'll be able to take it from there with a lot of confidence on what you've built.
 
 ![web programming with python](/public/imgs/screenshots/4.png)
 
@@ -90,8 +98,6 @@ You need to know the basics of web programming. **We won't cover basic things li
 * A working computer, doesn't matter if it's Mac, Windows or Linux.
 * A good internet connection. Ideally you have 4G in case your main connection fails.
 * A webcam. You won't be excluded if you don't have one, but provides a great experience.
-
-**That's it!**
 
 <h2 id="will-you-provide-any-certificate">Will you provide any certificate?</h2>
 
