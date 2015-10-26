@@ -3,7 +3,6 @@ layout: post
 title: "Advanced Python Programming course"
 category: courses
 tags: rmotr
-draft: true
 cover: "/public/imgs/screenshots/3.png"
 fbauthor: "https://www.facebook.com/santiago.basulto"
 author:
@@ -16,11 +15,11 @@ Have you ever felt the **frustration** when something doesn't work but yet every
 **You want to learn to code**. But the options that you have today don't suit you:
 
 * **programming bootcamps are really expensive.** The good ones are placed either in NYC or San Francisco. Even if you manage to pay for the bootcamp, how can you afford living in those cities!
-* **online video courses don't work at all**, you never get to finish them. And even if you get to finish them, you've learned all alone and you know nothing about the real world.
+* **online video courses don't work at all**, you never get to finish them. Supposing you did, they are all about theoretical learning and not so much about practical knowledge. you've learned all alone and you know nothing about the real world.
 
-Exactly that's why we created this course. We know that **the most difficult things in programming are not just "coding"**. You want to learn how to debug your programs, you want to learn coding style from professionals, you need the tools used in the industry, etc. The list is long, and yet, none of that is taught in books.
+That is exactly why we have created this course. We know that **the most difficult things in programming are not just "coding"**. You want to learn how to debug your programs, you want to learn coding style from professionals, you need the tools used in the industry, etc. The list is long, and yet, none of that is taught in books.
 
-**This course will take you from 10 - 110 in your Python programming skills.** It's designed for people with some knowledge in programming who want to take the next step into becoming better coders.
+**This course will take you from 10 - 110 in your Python programming skills.** It's designed for people who already have some knowledge of programming and want to take the next step into becoming better coders.
 
 * * * * * *
 
@@ -41,13 +40,11 @@ Exactly that's why we created this course. We know that **the most difficult thi
 
 <h2 id="how-does-it-work">How does it work?</h2>
 
-First of all **it's a real class**. It's not just a video that you sit and (hopefully) watch by yourself. You **will have a schedule** (eg: "every Tuesday at 8PM EST"), **you'll have other classmates** that you'll get to know during the course, you'll have to complete **individual and group projects** (yes, there's homework, sorry) and there's a [final project (called **Demo Day**)](/announcements/2015/03/10/introducing-demo-day/) in which you'll have to work with your team.
+First of all, **it's a real class**. It's not just a video that you sit and (hopefully) watch by yourself. You **will have a schedule** (eg: "every Tuesday at 8PM EST"), **you'll have other classmates** that you'll get to know during the course, you'll have to complete **individual and group projects** (yes, there's homework, sorry) and there's a [final project (called **Demo Day**)](/announcements/2015/03/10/introducing-demo-day/) in which you'll have to work with your team.
 
-This is a **highly practical course**. You'll spend most of the time coding. Either individually to learn something new or in groups to put into practice what you've learned.
+This is a **highly practical course**. You'll spend most of the time coding. Either individually to learn something new, or in groups to put into practice what you've learned.
 
-And finally: **Everything happens remotely.** So you can learn while you're in your kitchen in underwear. Even Spongebob can take it from Bikini Bottom.
-
-![Spongebob squarepants learning python in Bikini Bottom](/public/imgs/posts/spongebob-amazed.png)
+And finally: **everything happens remotely.** So you can learn while you're in your kitchen in your underwear.
 
 * * * * *
 
@@ -67,7 +64,7 @@ And finally: **Everything happens remotely.** So you can learn while you're in y
 
 <h2 id="what-will-you-learn">What will you learn?</h2>
 
-We like to say that this course **will make you an advanced python programmer**, even if you don't know anything about Python. It is required though that you have some basic knowledge about programming. Here's a high level list of topics covered:
+We like to say that this course **will make you an advanced python programmer**, even if you don't know anything about Python. It is required though that you have some basic knowledge about programming. Here's a high level list of the topics covered:
 
 * **Basic Python:** Basic data types and operators.
 * **Advanced functions and FP:** Master functions, lambdas and Functional Programming.
@@ -103,7 +100,7 @@ You might know the basics but you want to get really proficient at it. **You wan
 
 ### You want to develop web services and web sites
 
-The main focus of this course is on web development. We'll focus on teaching the fundamentals of HTTP and Python Web Development (wsgi using Werkzeug and Flask). We'll also show you a little bit about Django and different ORMs (Django's and SQLAlchemy). You'll be able to take it from there with a lot of confidence on what you've built.
+The main focus of this course is on web development. We'll focus on teaching the fundamentals of HTTP and Python Web Development (wsgi using Werkzeug and Flask). We'll also show you a little bit about Django and different ORMs (Django's and SQLAlchemy). You'll be able to take it from there feeling pretty confident on what you've built.
 
 ![web programming with python](/public/imgs/screenshots/4.png)
 
@@ -115,11 +112,11 @@ You need to know the basics of web programming. **We won't cover basic things li
 * A good internet connection. Ideally you have 4G in case your main connection fails.
 * A webcam. You won't be excluded if you don't have one, but provides a great experience.
 
-<h2 id="will-you-provide-any-certificate">Will you provide any certificate?</h2>
+<h2 id="will-you-provide-any-certificate">Will you get any certificate?</h2>
 
-We don't provide "paper" certificates. We consider that **the most important credential for every coder is her/his Github profile**. After you finish this course you'll have **your profile filled with open source software**. You'll have a ton of experience to support it too.
+We don't provide "paper" certificates. We consider that **the most important credential for every coder is her/his Github profile**. After finishing this course you'll have **your profile filled with open source software**. You'll have a ton of experience to support it too.
 
-**We also offer our recommendation** for whatever reason you might need it. Either to apply for a school or a job, etc.
+**We also offer our recommendation** for whatever reason you might need it, either to apply for a school or a job, etc.
 
 
 <h2 id="get-in-touch">Questions? Comments? Get in touch.</h2>
