@@ -126,3 +126,5 @@ We don't provide "paper" certificates. We consider that **the most important cre
 * Email: [questions@rmotr.com](mailto:questions@rmotr.com)
 * Twitter: [https://twitter.com/rmotr_com](https://twitter.com/rmotr_com)
 * Facebook: [http://facebook.com/rmotr](http://facebook.com/rmotr)
+
+Thanks to [Soledad Berdazaiz](https://medium.com/@soledad_berdazaiz/) and [Martín Zugnoni](https://twitter.com/martinzugnoni) for reading drafts and making suggestions/corrections to this.

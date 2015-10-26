@@ -3,7 +3,6 @@ layout: post
 title: "Batch 4 is now open! Accepting applications"
 category: announcements
 tags: rmotr
-draft: true
 cover: "/public/imgs/posts/2015-10-20-batch-4-is-now-open.jpg"
 crazy_image_explanation: "Taking our course is sometimes a big leap of faith. It requires lots of dedication and it's not easy. But at the end, it's worth it."
 cover_source: "https://unsplash.com/photos/s00F6-W_OQ8"
@@ -13,7 +12,7 @@ author:
     link: "https://twitter.com/santiagobasulto"
 ---
 
-We're glad to announce that our the batch for our Python Programming Course is now open and we're receiving applications. The course will begin on **Tuesday, November 3rd** and **will cost $300**. ¿Can't afford that? Keep on reading.
+We're glad to announce that our [Python Programming Course](/courses/2015/10/20/advanced-python-programming-course/) is now open and we're receiving applications. The course will begin on **Tuesday, November 3rd** and **will cost $300**. ¿Can't afford that? Keep on reading.
 
 **There are several changes for this batch**, you can read below for more details, but here's the summary:
 
@@ -63,3 +62,5 @@ We've developed internal tools to support our classes that will make your life e
 * * * * * * *
 
 **Remember!** If you have any questions just send us an email: [questions@rmotr.com](mailto:questions@rmotr.com)
+
+Thanks to [Soledad Berdazaiz](https://medium.com/@soledad_berdazaiz/) and [Martín Zugnoni](https://twitter.com/martinzugnoni) for reading drafts and making suggestions/corrections to this.
