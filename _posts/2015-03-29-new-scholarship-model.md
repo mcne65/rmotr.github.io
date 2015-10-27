@@ -10,9 +10,9 @@ author:
     link: "https://twitter.com/santiagobasulto"
 ---
 
-At rmotr.com we believe in universal access to education. Just making something "remote" makes it greatly accessible. Avoiding commute times, relocations, physical barriers is our number one advantage. We also want to provide education to everybody; regardless of the resources that each person can have.
+At rmotr.com we believe in **universal access to education**. Just making something "remote" makes it greatly accessible. Remote work allows you to avoid commute times, relocations and physical barriers. We also want to provide education to everybody; regardless of the resources that each person has.
 
-rmotr.com started as a free course. We were greatly surprised with the engagement and compromise our students had, even though it was free (people argued that our students wouldn't be really committed if they'd not pay for it). We started to get involved with our students and found amazing stories: people trying to make a better living, adults that were being reunited with programming after several years, kids trying to learn to program games, among others. That transformed rmotr.com from being just a bunch of hypothesis and the idea of a business to be a real passion and our mission to bring education to everybody.
+rmotr.com started as a free course. We were greatly surprised with the engagement and compromise our students had, even though it was free (people argued that our students wouldn't be really committed if they'd not pay for it). We started to get involved with our students and found amazing stories: people trying to make a better living, adults that were being reunited with programming after several years, kids trying to learn to program games, among others. That transformed rmotr.com from being just a bunch of hypothesis and the idea of a business to be a real passion and **our mission to bring education to everybody**.
 
 To continue with that mission we have found a way to finance ourselves in order to keep providing scholarships so people can access our courses for free. We want to give everybody the same opportunities; regardless of the resources they have available.
 
@@ -36,4 +36,4 @@ If you're interested in apply to our scholarships please keep an eye for our upc
 
 * **Facebook:** [https://www.facebook.com/rmotr](https://www.facebook.com/rmotr)
 
-or write us at _questions@rmotr.com_.
+or write us at [questions@rmotr.com](mailto:questions@rmotr.com).
