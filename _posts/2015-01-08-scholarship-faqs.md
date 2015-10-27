@@ -26,7 +26,6 @@ There are three simple steps for our admissions process:
 2. A follow up resolution problem that might include team work.
 3. An interview with other possible candidates.
 
-
 The first step is to submit a brief written application. The application might contain a simple programming exercise that will be used to know your programming skills. After the first application we'll be sending a follow up exercise. Neither of these exercises are deal breakers. We just ask for them in order to create groups of students with similar levels of knowledge. Once the follow up exercises are submitted we evaluate all candidates. 
 
 After that, you will either receive an invitation to interview or an e-mail notifying you were not selected for this batch. Don't worry too much though. We'll keep doing them and people who's not selected in the first place get more chances in the following batches.
@@ -57,4 +56,4 @@ We can't. Most of the time there's nothing "bad". Just other people were given t
 
 **I have other question and I don't see it answered here**
 
-Please send it to questions@rmotr.com and we'll happily answer it. Plus, you will help us to improve this page :)
+Please send it to [questions@rmotr.com](mailto:questions@rmotr.com) and we'll happily answer it. Plus, you will help us to improve this page :)
