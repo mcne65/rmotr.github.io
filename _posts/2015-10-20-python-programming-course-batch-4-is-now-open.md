@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Batch 4 is now open! Accepting applications"
+title: "Our 'Advanced Python Programming' course is now open!"
 category: announcements
 tags: rmotr
 cover: "/public/imgs/posts/2015-10-20-batch-4-is-now-open.jpg"
@@ -13,6 +13,10 @@ author:
 ---
 
 We're glad to announce that our [Python Programming Course](/courses/2015/10/20/advanced-python-programming-course/) is now open and we're receiving applications. The course will begin on **Tuesday, November 3rd** and **will cost $300**. ¿Can't afford that? Keep on reading.
+
+<div style="width: 100%; text-align:center">
+    <img src="/public/imgs/python-logo-master-v3-TM.png" style="margin: 0 auto;">
+</div>
 
 **There are several changes for this batch**, you can read below for more details, but here's the summary:
 
@@ -27,7 +31,7 @@ All the people will need to apply to take our courses now. We're proud to have l
 
 * * * * * * *
 
-### Apply now: [https://sis.rmotr.com/applications](https://sis.rmotr.com/applications)
+### Apply now: [https://sis.rmotr.com/applications](http://bit.ly/1GZbRqC)
 
 * * * * * * *
 
@@ -39,11 +43,11 @@ Said that, it's important to mention that scholarships are going to be granted t
 
 ## How to apply for scholarships?
 
-Just [apply as a regular student](https://sis.rmotr.com/applications) and in the last step tell us you want to apply for a scholarship. Tell us why you think you deserve it.
+Just [apply as a regular student](http://bit.ly/1GZbRqC) and in the last step tell us you want to apply for a scholarship. Tell us why you think you deserve it.
 
 * * * * * * *
 
-### Apply now: [https://sis.rmotr.com/applications](https://sis.rmotr.com/applications)
+### Apply now: [https://sis.rmotr.com/applications](http://bit.ly/1GZbRqC)
 
 * * * * * * *
 
@@ -57,7 +61,7 @@ We've developed internal tools to support our classes that will make your life e
 
 * * * * * * *
 
-### Apply now: [https://sis.rmotr.com/applications](https://sis.rmotr.com/applications)
+### Apply now: [https://sis.rmotr.com/applications](http://bit.ly/1GZbRqC)
 
 * * * * * * *
 
