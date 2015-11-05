@@ -78,7 +78,7 @@ function getParameterByName(name) {
 }
 var TOKEN = '072cf124511c4a84333f6b5132e8712a';
 if(window.location.host.indexOf("blog.rmotr.com") != -1){
-  TOKEN = '4774918ca83578aa4ea0941ec66a6a85';
+  // TOKEN = '4774918ca83578aa4ea0941ec66a6a85';
   console.log("Using production Mixpanel token")
 }
 
