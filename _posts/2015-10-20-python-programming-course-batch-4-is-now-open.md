@@ -31,7 +31,7 @@ All the people will need to apply to take our courses now. We're proud to have l
 
 * * * * * * *
 
-### Apply now: [https://sis.rmotr.com/applications](http://bit.ly/1GZbRqC)
+### Apply now: [https://sis.rmotr.com/applications](https://sis.rmotr.com/applications)
 
 * * * * * * *
 
@@ -43,11 +43,11 @@ Said that, it's important to mention that scholarships are going to be granted t
 
 ## How to apply for scholarships?
 
-Just [apply as a regular student](http://bit.ly/1GZbRqC) and in the last step tell us you want to apply for a scholarship. Tell us why you think you deserve it.
+Just [apply as a regular student](https://sis.rmotr.com/applications) and in the last step tell us you want to apply for a scholarship. Tell us why you think you deserve it.
 
 * * * * * * *
 
-### Apply now: [https://sis.rmotr.com/applications](http://bit.ly/1GZbRqC)
+### Apply now: [https://sis.rmotr.com/applications](https://sis.rmotr.com/applications)
 
 * * * * * * *
 
@@ -61,7 +61,7 @@ We've developed internal tools to support our classes that will make your life e
 
 * * * * * * *
 
-### Apply now: [https://sis.rmotr.com/applications](http://bit.ly/1GZbRqC)
+### Apply now: [https://sis.rmotr.com/applications](https://sis.rmotr.com/applications)
 
 * * * * * * *
 
@@ -78,10 +78,8 @@ function getParameterByName(name) {
 }
 var TOKEN = '072cf124511c4a84333f6b5132e8712a';
 if(window.location.host.indexOf("blog.rmotr.com") != -1){
-  // TOKEN = '4774918ca83578aa4ea0941ec66a6a85';
-  console.log("Using production Mixpanel token")
+  TOKEN = '4774918ca83578aa4ea0941ec66a6a85';
 }
-
 
 </script>
 <script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
