@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Our 'Advanced Python Programming' course is now open!"
+title: "Our Advanced Python Programming course is now open!"
 category: announcements
 tags: rmotr
 cover: "/public/imgs/posts/2015-10-20-batch-4-is-now-open.jpg"
@@ -68,3 +68,41 @@ We've developed internal tools to support our classes that will make your life e
 **Remember!** If you have any questions just send us an email: [questions@rmotr.com](mailto:questions@rmotr.com)
 
 Thanks to [Soledad Berdazaiz](https://medium.com/@soledad_berdazaiz/) and [Martín Zugnoni](https://twitter.com/martinzugnoni) for reading drafts and making suggestions/corrections to this.
+
+<script type="text/javascript">
+function getParameterByName(name) {
+    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(location.search);
+    return results === null ? null : decodeURIComponent(results[1].replace(/\+/g, " "));
+}
+var TOKEN = '072cf124511c4a84333f6b5132e8712a';
+if(window.location.host.indexOf("blog.rmotr.com") != -1){
+  TOKEN = '4774918ca83578aa4ea0941ec66a6a85';
+  console.log("Using production Mixpanel token")
+}
+
+
+</script>
+<script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f)}})(document,window.mixpanel||[]);
+mixpanel.init(TOKEN);</script>
+
+<script type="text/javascript">
+var utmSource = getParameterByName('utm_source');
+var utmMedium = getParameterByName('utm_medium');
+var utmCampaign = getParameterByName('utm_campaign');
+
+mixpanel.register_once({
+    'utm_source': utmSource,
+    'utm_medium': utmMedium,
+    'utm_campaign': utmCampaign
+});
+mixpanel.track('Blog post viewed', {
+    timestamp: new Date().toISOString(),
+    'utm_source': utmSource,
+    'utm_medium': utmMedium,
+    'utm_campaign': utmCampaign
+});
+
+</script>
