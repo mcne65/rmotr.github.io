@@ -12,7 +12,7 @@ author:
     link: "https://twitter.com/santiagobasulto"
 ---
 
-We're glad to announce that our [Python Programming Course](/courses/2015/10/20/advanced-python-programming-course/) is now open and we're receiving applications. The course will begin on **Tuesday, November 3rd** and **will cost $300**. ¿Can't afford that? Keep on reading.
+We're glad to announce that our [Python Programming Course](/courses/2015/10/20/advanced-python-programming-course/) is now open and we're receiving applications. The course will begin on **Tuesday, November 10th** and **will cost $300**. ¿Can't afford that? Keep on reading.
 
 <div style="width: 100%; text-align:center">
     <img src="/public/imgs/python-logo-master-v3-TM.png" style="margin: 0 auto;">
