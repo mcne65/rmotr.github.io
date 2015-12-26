@@ -32,6 +32,4 @@ Once you've forked the repository a personal copy has been created. Note that no
 
 ### Step 3: Start coding!
 
-There are different options you can choose now. You can clone and develop locally in your own environment or you can use Cloud9 to develop. To learn more please follow the other guides:
-
-[Use Cloud9 to develop]
+There are different options you can choose now. You can clone and develop locally in your own environment or you can use Cloud9 to develop. To learn more please follow the other guide: [Use Cloud9 to develop](/students/2015/12/26/step-by-step-guide-to-configure-cloud9-for-group-projects/)

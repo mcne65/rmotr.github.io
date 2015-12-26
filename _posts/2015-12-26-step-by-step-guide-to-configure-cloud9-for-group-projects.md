@@ -2,7 +2,7 @@
 layout: post
 title: "Step by Step github guide for group projects"
 category: students
-tags: rmotr github group-work
+tags: rmotr group-work cloud9
 cover: "/public/imgs/posts/cloud9-guide/cover.png"
 fbauthor: "https://www.facebook.com/santiago.basulto"
 author:
